@@ -24,11 +24,11 @@ The goal is to create an accessible Go learning resource for beginners using an 
 
  Here you learn about:
 
- - package main  
- - func main()  
- - fmt.Println  
- - variáveis  
- - declaração curta
+ - `package main`    
+ - `func main()`  
+ - `fmt.Println`  
+ - `varibles`  
+ - `short declaration`
 
 ## Stage Boss: 
 
