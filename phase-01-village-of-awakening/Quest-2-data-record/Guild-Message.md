@@ -86,3 +86,7 @@ Hero: Elyra | Class: Ranger | Age: 27 | Lost: false
 ## Victory Condition:
 
 Both heroes successfully announced to Eldora.
+
+# ⚔️ Phase 01 — Quest 03 unlocked -->
+
+move.forward()

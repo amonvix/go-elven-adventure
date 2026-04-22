@@ -53,10 +53,10 @@ func main() {
 	*/
 
 	fmt.Println("Suddenly, Amon is summoned to the Castle to provide clarification regarding his level.")
-	amon_citizen_registry := 41
-	clerk_citizen_registry := "41"
+	amonCitizenRegistry := 41
+	clerkCitizenRegistry := "41"
 
-	fmt.Println("If all the problem is about only this, I show you my documents provided when I arrive, says Amon", amon_citizen_registry+1)
-	fmt.Println("Doing a simple comparison, everybody could see that Amons's Registry was correct. The Clerk registry was", clerk_citizen_registry)
+	fmt.Println("If all the problem is about only this, I show you my documents provided when I arrive, says Amon", amonCitizenRegistry+1)
+	fmt.Println("Doing a simple comparison, everybody could see that Amons's Registry was correct. The Clerk registry was", clerkCitizenRegistry)
 
 }
