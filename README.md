@@ -27,7 +27,7 @@ The goal is to create an accessible Go learning resource for beginners using an 
  - `package main`    
  - `func main()`  
  - `fmt.Println`  
- - `varibles`  
+ - `variables`  
  - `short declaration`
 
 ## Stage Boss: 
@@ -38,11 +38,11 @@ The goal is to create an accessible Go learning resource for beginners using an 
 
 Here you learn about:
 
- - if  
- - else  
- - switch  
- - operators  
- - comparisons  
+ - `if`  
+ - `else`  
+ - `switch`  
+ - `operators`  
+ - `comparisons`  
 
 ## Stage Boss:
 
@@ -52,17 +52,17 @@ Here you learn about:
 
 Here you learn about:
 
- - arrays  
- - slices  
- - maps  
+ - `arrays`  
+ - `slices`  
+ - `maps`  
 
  ### 4. Temple of Forms
 
 Here you learn about:
 
- - structs  
- - methods  
- - receivers  
+ - `structs`  
+ - `methods`  
+ - `receivers`  
 
  ## Stage Boss:
 
